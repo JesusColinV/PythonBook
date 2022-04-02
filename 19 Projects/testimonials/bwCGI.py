@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-# bwCGI.py by Bill Weinman <http://bw.org/contact/>
-# Copyright (c) 1995-2010 The BearHeart Group, LLC
-#
+# This is an exercise file from Python 3 Training by Jesus Colín
 
 from cgi import FieldStorage
 import cgitb

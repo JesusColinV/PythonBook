@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# datetime.py by Bill Weinman <http://bw.org/contact/>
-# Copyright (c) 2010 The BearHeart Group, LLC
-# CGI/SSI version for bw.org
-#
+# This is an exercise file from Python 3 Training by Jesus Colín
+
 
 import time, saytime
 

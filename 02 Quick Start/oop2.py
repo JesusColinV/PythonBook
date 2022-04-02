@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# This is an exercise file from Python 3 Training by Jesus Colín
 
 class AnimalActions:
     def quack(self): return self.strings['quack']

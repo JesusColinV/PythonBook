@@ -1,8 +1,4 @@
-#!/usr/bin/python3
-# iterators.py by Bill Weinman [http://bw.org/]
-# This is an exercise file from Python 3 Essential Training on lynda.com
-# Copyright 2010 The BearHeart Group, LLC
-
+# This is an exercise file from Python 3 Training by Jesus Colín
 def main():
     fh = open('lines.txt')
     for line in fh.readlines():

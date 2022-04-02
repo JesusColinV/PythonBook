@@ -1,7 +1,5 @@
-#!/usr/bin/python3
-# saytime-errors.py by Bill Weinman [http://bw.org/]
-# created for Python 3 Essential Training on lynda.com
-# Copyright 2010 The BearHeart Group, LLC
+# This is an exercise file from Python 3 Training by Jesus Colín
+
 import sys
 import time
 
@@ -23,7 +21,7 @@ class numwords():
             'o\'clock', 'quarter', 'half'
         ), 'range': {
             'hundred': 'hundred'
-        } 'misc': {
+        }, 'misc': {
             'minus': 'minus'
         }
     }

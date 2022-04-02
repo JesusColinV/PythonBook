@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-# template.py by Bill Weinman [http://bw.org/]
-# created for Python 3 Essential Training on lynda.com
-# Copyright 2010 The BearHeart Gorup, LLC
+# This is an exercise file from Python 3 Training by Jesus Colín
 
 from xml.dom.minidom import parse
 from urllib.request import urlopen

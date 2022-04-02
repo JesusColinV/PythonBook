@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# This is an exercise file from Python 3 Training by Jesus Colín
 
 # simple fibonacci series
 # the sum of two elements defines the next set

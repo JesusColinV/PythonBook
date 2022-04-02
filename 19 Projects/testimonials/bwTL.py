@@ -1,7 +1,5 @@
-#!/usr/bin/python3
-# bwTL - BW's template library
-# by Bill Weinman [http://bw.org/]
-# Copyright 1995-2010 The BearHeart Group LLC
+
+# This is an exercise file from Python 3 Training by Jesus Colín
 
 import re
 import sys
